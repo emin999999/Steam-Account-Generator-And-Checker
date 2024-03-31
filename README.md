@@ -1,2 +1,2 @@
-# Steam-Account-Generator-And-Checker
+# How Use
 What you need to install: Python and Selenium
